@@ -1,0 +1,5 @@
+image_file,output,flag,username,timestamp
+flagged/image_file/3a2ca1fd6037261616f5/000-0.jpg,"{""label"": null, ""confidences"": null}",,,2024-05-05 18:36:05.015809
+flagged/image_file/eecb036b497aeaa6c1b1/0 1627.jpg,"{""label"": ""smoking"", ""confidences"": [{""label"": ""smoking"", ""confidence"": 0.52}, {""label"": ""normal"", ""confidence"": 0.2728}, {""label"": ""spitting"", ""confidence"": 0.2073}]}",,,2024-05-05 22:16:22.593025
+flagged/image_file/c1dd99645a8ef64e634a/augmented_15_jpg.rf.7d5420bfa5ce16f29c351f5b6ea825b5_0_3202.jpeg,"{""label"": ""spitting"", ""confidences"": null}",,,2024-05-05 22:55:10.144365
+flagged/image_file/0764173941d5a61e03f2/000-0.jpg,"{""label"": ""smoking"", ""confidences"": null}",,,2024-05-05 22:55:58.234217
