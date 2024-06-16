@@ -1,0 +1,14 @@
+# requirements.txt
+
+# Deep learning libraries
+tensorflow>=2.0.0
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+
+# Gradio for UI
+gradio
+
+scikit-learn  
