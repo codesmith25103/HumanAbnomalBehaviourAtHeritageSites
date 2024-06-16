@@ -50,7 +50,7 @@ cd HumanAbnomalBehaviourAtHeritageSites
 UI:
 ![image](https://github.com/codesmith25103/HumanAbnomalBehaviourAtHeritageSites/assets/102778847/fd94b3da-f59b-44c2-9a65-62dd0790d400)
 
-Open your web browser and navigate to `http://localhost:5000` to interact with the UI powered by Gradio.
+Open your web browser and navigate to `http://localhost:7860` to interact with the UI powered by Gradio.
 
 ## Contributors
 - [Sankalp](https://github.com/codesmith25103)
