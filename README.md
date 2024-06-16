@@ -1,4 +1,4 @@
-# HUMAN ABNORMAL BEHAVIOUR DETECTION BASED ON DL
+# HUMAN ABNORMAL BEHAVIOUR DETECTION AT HERITAGE SITES BASED ON DL
 
 ## Overview
 This project focuses on developing an intelligent system to detect and deter inappropriate behavior, such as smoking and spitting, at national heritage sites. The system utilizes deep learning models, particularly the DenseNet architecture, to analyze images and identify these behaviors.
